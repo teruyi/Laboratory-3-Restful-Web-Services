@@ -10,3 +10,10 @@ bin/
 .classpath
 .project
 .settings
+/.nb-gradle/
+
+#IntelliJ
+*.iml
+.idea/
+
+**/*~
