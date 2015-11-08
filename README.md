@@ -21,7 +21,7 @@ Oscar Clemente Pedrico | 530162 | [repo](https://github.com/OscarClemente/Labora
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220
 Santiago Gil Begué | 683482 | [Santi-7's repo](https://github.com/Santi-7/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/Santi-7/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/Santi-7/Laboratory-3-Restful-Web-Services)  | [Adapting code with Swagger](http://swagger.io/)
-Carlos Escuín Blasco | 545003
+Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/xarlieskin/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/xarlieskin/Laboratory-3-Restful-Web-Services)
 Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services)
 Adrian Moreno Jimeno | 631537
