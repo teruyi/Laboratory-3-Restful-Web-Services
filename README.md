@@ -17,7 +17,7 @@ David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-3-
 Eduardo Ibanez | 528074
 Sergio Soro Miranda | 671250
 Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/albert17/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/albert17/Laboratory-3-Restful-Web-Services) | [Adapting code with JSONdoc](http://jsondoc.org/)
-Oscar Clemente Pedrico | 530162
+Oscar Clemente Pedrico | 530162 | [repo](https://github.com/OscarClemente/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/OscarClemente/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/OscarClemente/Laboratory-3-Restful-Web-Services)
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220
 Santiago Gil Begué | 683482 | [Santi-7's repo](https://github.com/Santi-7/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/Santi-7/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/Santi-7/Laboratory-3-Restful-Web-Services)  | [Adapting code with Swagger](http://swagger.io/)
