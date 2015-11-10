@@ -26,7 +26,7 @@ Alberto Revel | 628704| [repo](https://github.com/albertorevel/Laboratory-3-Rest
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services)
 Adrian Moreno Jimeno | 631537
 Alberto Sabater Bailén | 546297
-Agustin Navarro Torres | 587570
+Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/Laboratory-3-Restful-Web-Services/tree/master)|[![Build Status](https://travis-ci.org/SirBargus/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/SirBargus/Laboratory-3-Restful-Web-Services)
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578 | [repo](https://github.com/christianjaka94/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/christianjaka94/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/christianjaka94/Laboratory-3-Restful-Web-Services)
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-3-Restful-Web-Services) | [![Build Status] (https://travis-ci.org/luisjesuspellicer/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/luisjesuspellicer/Laboratory-3-Restful-Web-Services.svg)
