@@ -22,18 +22,18 @@ Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220 | [repo](https://github.com/ader9/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/ader9/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/ader9/Laboratory-3-Restful-Web-Services)
 Santiago Gil Begué | 683482 | [Santi-7's repo](https://github.com/Santi-7/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/Santi-7/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/Santi-7/Laboratory-3-Restful-Web-Services)  | [Adapting code with Swagger](http://swagger.io/)
 Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/xarlieskin/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/xarlieskin/Laboratory-3-Restful-Web-Services)
-Alberto Revel | 628704
+Alberto Revel | 628704| [repo](https://github.com/albertorevel/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/albertorevel/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/albertorevel/Laboratory-3-Restful-Web-Services)
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services)
 Adrian Moreno Jimeno | 631537
 Alberto Sabater Bailén | 546297
 Agustin Navarro Torres | 587570
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578
-Luis Jesus Pellicer | 520256
+Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-3-Restful-Web-Services) | [![Build Status] (https://travis-ci.org/luisjesuspellicer/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/luisjesuspellicer/Laboratory-3-Restful-Web-Services.svg)
 Marcos Ruiz García | 648045
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
-Diego Sánchez Castillo | 628279
+Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/diegozgz92/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/diegozgz92/Laboratory-3-Restful-Web-Services)
 Rubén Gabás Celimendiz | 590738
 Daniel Forcén Esteban | 558471
 Ramón José Arellano Bitrián | 594040
