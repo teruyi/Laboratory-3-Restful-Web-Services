@@ -37,6 +37,6 @@ Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/Laborato
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/PhyrionX/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/PhyrionX/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/PhyrionX/Laboratory-3-Restful-Web-Services)
 Daniel Forcén Esteban | 558471
 Ramón José Arellano Bitrián | 594040
-Daniel Uroz | 545338
+Daniel Uroz | 545338 | [repo](https://github.com/uZetta27/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/uZetta27/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/uZetta27/Laboratory-3-Restful-Web-Services)
 Jorge Berdún Udina | 591454
 Guillermo Pérez García | 610382 | [repo](https://github.com/guillepg/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/guillepg/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/guillepg/Laboratory-3-Restful-Web-Services)
